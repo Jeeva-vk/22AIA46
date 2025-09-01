@@ -1,11 +1,14 @@
-# Python
-__pycache__/
-*.py[cod]
-*.sqlite3
-.env
 venv/
-
-# Django
-staticfiles/
-media/
-
+__pycache__/
+db.sqlite3
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+*.pot
+*.pyc
+*.so
+*.egg-info/
+dist/
+node_modules/
